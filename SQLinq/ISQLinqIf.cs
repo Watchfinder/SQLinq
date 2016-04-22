@@ -7,7 +7,7 @@ namespace SQLinq
     public interface ISQLinqIf : ISQLinq
     {
         /// <summary>
-        /// The "IF" clause to evaluate
+        /// The "IF" clause to evaluate  
         /// </summary>
         object If { get; }
 
