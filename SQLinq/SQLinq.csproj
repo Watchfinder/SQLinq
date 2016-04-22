@@ -98,6 +98,7 @@
     <Compile Include="SQLinqUpdateResult.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="sqlinq.nuspec" />
     <None Include="SQLinqKey.snk" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
