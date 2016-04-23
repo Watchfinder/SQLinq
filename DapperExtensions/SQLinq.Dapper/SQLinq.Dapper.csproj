@@ -67,7 +67,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\SQLinq\SQLinq.csproj">
-      <Project>{2d78ee41-9916-41e5-9d90-b0f3e387a985}</Project>
+      <Project>{95af6dbe-d796-469b-97d1-0c23d664d384}</Project>
       <Name>SQLinq</Name>
     </ProjectReference>
   </ItemGroup>
